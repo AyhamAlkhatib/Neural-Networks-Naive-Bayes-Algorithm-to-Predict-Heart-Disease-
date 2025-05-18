@@ -67,6 +67,6 @@ This project implements two supervised learning models — **Gaussian Naive Baye
 ## 📄 Report
 
 For a detailed breakdown of methodology, implementation, and evaluation:
-📎 [Final Project Report (PDF)](./final_project_cleaned.pdf)
+📎 [Final Project Report (PDF)](./final_project.pdf)
 
 ---
